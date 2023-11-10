@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Roua Afsa</h1>
+
 
 
 I am a third-year Computer Science student, with a genuine enthusiasm for software development. I find joy in witnessing the incremental progress of my work and am dedicated to continuous learning.
