@@ -2,7 +2,7 @@
 
 
 
-I am a third-year Computer Science student, with a genuine enthusiasm for software development. I find joy in witnessing the incremental progress of my work and am dedicated to continuous learning.
+I am a cyber security engineer student, with a genuine enthusiasm for software development. I find joy in witnessing the incremental progress of my work and am dedicated to continuous learning.
 
 - 🔭 I’m currently seeking an internship
 
